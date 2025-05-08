@@ -1,0 +1,7 @@
+title: BiocParallel
+url: https://bioconductor.github.io/BiocParallel
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
